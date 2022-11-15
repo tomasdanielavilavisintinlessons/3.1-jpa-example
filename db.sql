@@ -21,4 +21,4 @@ insert into authors(first_name, second_name) values
 insert into books(title) values
 ('Fight Club'),
 ('Crash'),
-('Neuromant');
+('Neuromancer');
